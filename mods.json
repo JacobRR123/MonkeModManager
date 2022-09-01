@@ -9,12 +9,12 @@
          "group" : "Core"
       },
       {
-         "name" : "Gorilla Cosmetics",
+         "name" : "Old Rec Room 2018",
          "tag" : "",
-         "gitPath" : "legoandmars/GorillaCosmetics",
+         "gitPath" : "JacobRR123/RecOld2018",
          "releaseId" : 0,
-         "author" : "Bobbie",
-         "group" : "Cosmetic",
+         "author" : "Jacob Pierce",
+         "group" : "Server",
          "dependencies" : [
           "Newtonsoft.JSON"
          ]
